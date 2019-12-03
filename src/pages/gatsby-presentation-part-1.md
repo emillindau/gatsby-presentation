@@ -9,9 +9,9 @@ next: "/gatsby-presentation-part-2"
 
 ## What is a “static site generator”
 
-- Delivers just static files via template and raw data (eg. markdown)
-- Thus faster & scalable
-  Now, you could just write your own HTML, JS and CSS files. But managing assets and repeated elements can become tedious.
+Delivers just static files via template and raw data (eg. markdown). Thus it is faster & scalable (buzz)
+
+Now, you could just write your own HTML, JS and CSS files. But managing assets and repeated elements can become tedious.
 
 Pros:
 
