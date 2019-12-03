@@ -7,6 +7,7 @@ next: "/gatsby-presentation-part-4"
 
 # Gatsby vs Next.js
 
+Holmberg äger
 Both next.js and Gatsby are more than CRA, they are tools (which means that they enforce certain things). Both provide boilerplate code and are performant SPA's.
 
 But there is a difference, and quite a big one depending on your needs.
